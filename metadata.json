@@ -1,0 +1,6 @@
+{
+  "name": "Șantier - Management Șantiere Construcții",
+  "description": "Sistem MVP de management pe șantier pentru companii de construcții din România. Monitorizare progres în timp real, check-in șef de șantier, fotografii și rapoarte zilnice de execuție.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
